@@ -1,0 +1,15 @@
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.csproj.AssemblyReference.cache
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.AssemblyInfoInputs.cache
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.AssemblyInfo.cs
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.csproj.CoreCompileInputs.cache
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/bin/Debug/net7.0/2Sum
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/bin/Debug/net7.0/2Sum.deps.json
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/bin/Debug/net7.0/2Sum.runtimeconfig.json
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/bin/Debug/net7.0/2Sum.dll
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/bin/Debug/net7.0/2Sum.pdb
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.dll
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/refint/2Sum.dll
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.pdb
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/2Sum.genruntimeconfig.cache
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj/Debug/net7.0/ref/2Sum.dll
