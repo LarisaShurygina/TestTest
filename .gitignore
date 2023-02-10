@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+/Users/mihail/Desktop/GIT/Lecture C/1world/bin/Debug/net7.0
+/Users/mihail/Desktop/GIT/Lecture C/1world/obj
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/bin/Debug/net7.0
+/Users/mihail/Desktop/GIT/Lecture C/2Sum/obj
